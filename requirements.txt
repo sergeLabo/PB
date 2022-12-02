@@ -1,0 +1,4 @@
+twisted
+kivy
+opencv-python
+numpy
